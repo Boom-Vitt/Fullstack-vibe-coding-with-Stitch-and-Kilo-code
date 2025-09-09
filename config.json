@@ -1,0 +1,115 @@
+{
+  "clinic": {
+    "name": "Smile Studio",
+    "address": "123 ถนนสุขุมวิท, คลองเตย, กรุงเทพมหานคร 10110",
+    "phone": "(02) 123-4567",
+    "email": "contact@smilestudio.th",
+    "logo": "https://lh3.googleusercontent.com/aida-public/AB6AXuBk07ovTWPCXvTj61p3TfRn5MotQQGb-MuJaq5PhI6TyECFfCUr2riXtcui9mfRc6s-zTiKXmP6LMgLwuz4DfuLRom9zOoPHaqPGK3WuIvNVu1dlq02LNgFtiBDIMoNYT7wGX5nZkAO4SZMdJoXw-e3wfVtfIEAZCnkPl9WFVX-8LTnLr7W-KKKHp2-BLEDwb2DfgWi0kquvx7TY586gRAMPgv5UnmgPQpmsZ9L7ET4YxaXJSBmfhfYVTPAfklhGxpf3Fk2prSHAMk"
+  },
+  "doctors": [
+    {
+      "id": "dr-somsri",
+      "name": "นพ. สมศรี ใจดี",
+      "specialty": "ทันตแพทย์ทั่วไป",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdHPH0niClew3Ye-wp0KHt--PQEKJjG8igO9QB-1zGt-5D3yxWsxJexNzZpezrKnwUv6qCzvgO4esiyfeBjQEIuo_kzbrZgucIY-XtS8aacOcfItuKIbu3XzCTJ35lgZu_BqtgzeKxJUSwLxrIrm1c_Szbby2Cu48enc4kxwDDjM7LMlZrJrYVSba1eevusbcDO-zyEXWJl0-kkcIGGklWaoz_gYA06cMWPAACMzOpsDuXOptZhIMesNLLNGmuzkaVPhN9o_isHY4",
+      "experience": "15 ปี",
+      "languages": ["ไทย", "อังกฤษ"]
+    },
+    {
+      "id": "dr-somsak",
+      "name": "นพ. สมชาย มุ่งมั่น",
+      "specialty": "ทันตกรรมความงาม",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAsR2XBidF6nPO_5Gm1JcADFSKon4s6wOcYR9zwpiRFmjpeMZ93q7ZtLbQEXC7t9et5SPdrviee3EGqnqdHsEupcfxAKqD-C-TbxSdqMyeMiquhHkwq2TttTdF_1ib-aaIc8s8R_LpJcXA6E4yqzoG4iqcZSuedaDsm7I8pZAOpiTP2Op6kYxlypCGcX45ikq4QCo1bZGY3OhZHa8jC5YVdeQdAbYEidhQhh4OyQD8EVkbTKzxOjc_ppzOrZdJxuILkPAN8-AMu3xw",
+      "experience": "12 ปี",
+      "languages": ["ไทย", "อังกฤษ", "จีน"]
+    },
+    {
+      "id": "dr-somsakdi",
+      "name": "นพ. สมศักดิ์ รักบริการ",
+      "specialty": "ทันตกรรมสำหรับเด็ก",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDcM3pwcbkYqeUzJ4PWgWIRmlS2cjrdQUawtwdfi886BjxEbxks_QHtljUj7_cAKc1K01RLlwnhKt1mDKphQjWTT0NyNPWD5K1Wzfysm-fPpMi4kUC5UpMGVo70pop7LWM6O1GS7nLsSFjSKJpy9qgbupxntUx7SiHvQf7Ikuh1U1lLRiU1VG9ZXMLD0rMxQdxY23j7jcRcbApsF-z2dr7UgRWVhLjgwY0_zv4ySL3Al4WFdaPOZWYDd2W7USM5Es7obJdx4qUzpxw",
+      "experience": "10 ปี",
+      "languages": ["ไทย", "อังกฤษ"]
+    }
+  ],
+  "services": [
+    {
+      "id": "checkup",
+      "name": "ตรวจสุขภาพช่องปาก",
+      "description": "การตรวจสุขภาพเป็นสิ่งสำคัญเพื่อรักษาสุขภาพที่ดีและสร้างรอยยิ้มที่สวยงาม",
+      "duration": 30,
+      "price": 500,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAAPESp0YgtaXkwydaEhDgzc4b93TdlN0KwBvP0HbXyrU6DI2izhQiVJhX8mIjxAOGBXCoFD1okjarcWcO8QTEH5yVwwIgna21LG3EeQIUSpV-MD5jefKV4Kifj3-nlgBTHm5yEOdtdj_9l7p61L7fdXsDU_Wg2zUYOH19cYbKA-zOI2gbRVFpd7kcrMiTqDWMl6DZN0Owi3Xszoc70WgITxklTYmaCqIcQPdC486oRrUDP0_cRHYf72qPG0HkEZS3T56m-alHsg7g"
+    },
+    {
+      "id": "cleaning",
+      "name": "ขูดหินปูนและทำความสะอาด",
+      "description": "การทำความสะอาดแบบมืออาชีพเพื่อสุขภาพช่องปากที่ดีที่สุด",
+      "duration": 45,
+      "price": 800,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDAg6zLJ2X1TePdgrZAsUKXtyNZDKVwhHJo229AHFZLvZcrn1AhjWZG9N8meoxJtCeE8ZDGKNI1UjWbQWezbd1NsOQ9YMZLRx6bv_miUzjg2hNrm502V8B0tY68kg47u6iMqtSBm3zw65qOd_GBuCVhq5F99ZUsj8jMn1IsZccp84lu9JDlH0rQ5gXgiA9VfE1gsV4CmttCPLH4yp6IVqxIY8UTND9QJtjDjAR9JrDe-sLDBUbLMz5jOZVOQQvBAA5z_PVuBRMDq1k"
+    },
+    {
+      "id": "filling",
+      "name": "อุดฟันป้องกัน",
+      "description": "การป้องกันฟันผุและโรคเหงือกด้วยการอุดฟัน",
+      "duration": 60,
+      "price": 1200,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAcDJUqMxkMpV8LkcATmKlEMN4naeP7sbM7t5Vm6QoGVj91mRv6-hVgIriDa1XvFRkONB3QGr_ZSsBpR8fadKA_oqBbbmbknlXc9oy-N7LfynZ_SScuQn7qJKKpm5ND4KoEfG_LrmOjHnlNNw_HJo3vTXz-GaWcb0NTj4JlNhmQ7hyE2te3wePNm-GYlI2pvKbXG1Oq7vE51u1X0U_TIIk2KqCSO36AonLRwYj1Vt46xhbUFH_ygopZnm2aWfUTlfggVmE9Nz2GC7o"
+    },
+    {
+      "id": "extraction",
+      "name": "ถอนฟัน",
+      "description": "การถอนฟันที่เสียหายหรือไม่สามารถรักษาได้",
+      "duration": 30,
+      "price": 1500,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA5T57Wd8RGYzf1p7fEUwsk7Qn6M5cmol_8oG5gR1GD3z5SveHEhPSAxxMcGUdg8sWOY2ZU-CRoG_4GwpyuJXgmJGeyI6RV1bRqyn_QPuGDkzSTlM8_q6uROddIJaxCtN40YvxYXC-GvsE_3LwdV__8ebY8y5dyE5qOXQvsPSqTF7yP2Sw-8N5e8z_k2JqR7MIIEjMI5gYl55yfKZv33eDFqQZSy20FTBrWOHbUkDXd-IC-e68fYDvFByVh_SoCL93bsAMXP1jc0n0"
+    },
+    {
+      "id": "denture",
+      "name": "ทำความสะอาดฟันเทียม",
+      "description": "การทำความสะอาดฟันปลอมและฟันเทียมอื่นๆ",
+      "duration": 20,
+      "price": 300,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDBtNVbOzxxEW1yPuOtjbtz7mjPcUt3hRAGxC0tzhMX2S9Xo8NWjaU7H-YUrTRmE3hX9aJutlkVP_j_h9acsSev_ovSefxy_BepC4qX-GTSw9i1RJQHQX_3B6u_L4vxAFr4H_lvFzZhUCsGT0c6qFeklAD5BmnJ1iKi83Aoo-0odRplBgULTkpx5DAQG1NX2YIZgvSAp23T9udN2qbpl79rCJKBiZ7-kxEdYOc-LzVyNxK0xPCfrORQKdi0e0anIjVJUJeCd8phCs8"
+    },
+    {
+      "id": "wisdom",
+      "name": "ถอนฟันคุด",
+      "description": "การถอนฟันคุดเพื่อป้องกันปัญหาในอนาคต",
+      "duration": 90,
+      "price": 2500,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDfRm3cVf7Hiiw5F9ouOICXqzEdP2Kt357tIPgR0_ZWvIzecVrjZnPeXfYKLa-lAlUa_NSukCa9c_VWCYcuhDE43BFfmtTjuOAqpVU1xMyRGSEfDjKIOFRMAVLIFcNbKRFmklWS7gBL0u3GQXbWRaFO-0k0B9zmbfiN__Ft9f-bEC9aZHJFGrXqn_wTWPyWvGFGhAA7YudW_k9JWTrBTONG5gnRkhBUeQ9f1lvGEa738BWZ_Q50pNlgMyqHuoHxfkrw_rVvTgs4AS8"
+    }
+  ],
+  "workingHours": {
+    "monday": { "start": "09:00", "end": "17:00", "break": ["12:00", "13:00"] },
+    "tuesday": { "start": "09:00", "end": "17:00", "break": ["12:00", "13:00"] },
+    "wednesday": { "start": "09:00", "end": "17:00", "break": ["12:00", "13:00"] },
+    "thursday": { "start": "09:00", "end": "17:00", "break": ["12:00", "13:00"] },
+    "friday": { "start": "09:00", "end": "17:00", "break": ["12:00", "13:00"] },
+    "saturday": { "start": "09:00", "end": "15:00", "break": ["12:00", "13:00"] },
+    "sunday": null
+  },
+  "holidays": [
+    "2024-12-25",
+    "2024-12-31",
+    "2025-01-01",
+    "2025-02-14",
+    "2025-04-13",
+    "2025-04-14",
+    "2025-04-15",
+    "2025-05-01",
+    "2025-05-05",
+    "2025-06-01",
+    "2025-07-01",
+    "2025-08-12",
+    "2025-10-23",
+    "2025-12-05",
+    "2025-12-10",
+    "2025-12-25",
+    "2025-12-31"
+  ],
+  "appointmentDuration": 30,
+  "bufferTime": 15
+}
