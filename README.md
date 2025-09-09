@@ -136,7 +136,7 @@ Codespaces ฟรีสำหรับ public repo และมี quota สำ�
 - ทดสอบ API ด้วย Postman หรือ curl.
 - Deploy ไป Vercel/Netlify: `npm run build` แล้ว push ไป GitHub.
 
-หากมีคำถามเพิ่มเติม ติดต่อ [email หรือ issue บน GitHub].
+หากมีคำถามเพิ่มเติม ติดต่อ Line: @boombignose หรือ Skool Admin: https://www.skool.com/boombignose-8034/about.
 
 ---
 
